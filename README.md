@@ -1,4 +1,4 @@
-# Marketing Campaign Dashboard
+# Looker Studio Marketing Dashboard
 
 ## Overview
 
